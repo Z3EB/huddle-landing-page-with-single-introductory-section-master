@@ -1,7 +1,7 @@
 body {
     background-image: url(images/bg-desktop.svg);
     background-color: hsl(257, 40%, 49%);
-    background-size: 77%;
+    background-size: 82%;
     background-repeat: no-repeat;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
@@ -85,7 +85,7 @@ footer {
     display: flex;
     justify-content: flex-end;
     gap: 15px;
-    padding-right: 21rem;
+    padding-right: 18rem;
     padding-top: 1rem;
 }
 
